@@ -1,0 +1,186 @@
+body{
+    margin: 0%;
+}
+.logo{
+    background-color: lightgray;
+    
+
+}
+.imlogo{
+    width: 110px;
+    margin: 1% 0% 0.5% 10%;
+    outline: 4px solid white;
+}
+.header{
+    background-color: rgb(238, 238, 238);
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    justify-content: end;
+    
+}
+.headertext{
+    padding-right: 55px;
+}
+.header p{
+    color: blue;
+    font-size: 20px;
+}
+.headertext .btn{
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px red;
+}
+.headertext p{
+    color: rgb(255, 0, 0);
+    font-weight: bolder;
+    font-size: 20px;
+}
+.btn1{
+    text-align: center;
+    margin-top: 30px;
+}
+.btn1 button{
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px red;
+}
+.loanbox div img{
+    width: 25px;
+    height: 30px;
+    padding-right: 10px;
+    
+}
+.loanbox div{
+    display: flex;
+    
+    place-items: center;
+    
+}
+.loanbox{
+    width: 18%;
+    background-color: rgb(238, 238, 238);
+    margin-left: 10%;
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px rgb(194, 194, 194);
+}
+.loanbox .pb1{
+    padding-left: 30px;
+    
+}
+.loanbox div{
+    padding-left: 10px;
+    font-size: 19px;
+    
+}
+.APPLICATION_btn{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.APPLICATION_btn button{
+    padding: 5px;
+    background-color: green;
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px green;
+}
+.btn2{
+    text-align: center;
+    margin-top: 60px;
+}
+.btn2 button{
+    padding: 10px 20px 10px 20px;
+    background-color: blue;
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    box-shadow: 0px 0px 2px blue;
+}
+.footer1{
+    background-color: rgb(238, 238, 238);
+    width: 80%;
+    margin: auto;
+    display: flex;
+    margin-top: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 5px rgb(194, 194, 194);
+}
+.footer1 img{
+    width: 30px;
+    height: 40px;
+    padding: 10px 30px 10px 30px;  
+}
+.footer1 p{
+    padding-top: 5px;
+    font-size: 18px;
+}
+.btn3{
+    text-align: center;
+    margin-top: 30px;
+}
+.btn3 button{
+    padding: 5px;
+    background-color: red;
+    color: white;
+    border: none;
+    outline: none;
+    font-weight: bold;
+    border-radius: 3px;
+    box-shadow: 0px 0px 2px red;
+}
+.footer{
+    background-color: rgb(238, 238, 238);
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    box-shadow: 0px 0px 5px rgb(194, 194, 194);
+}
+.footer div{
+    display: flex;
+}
+.footer div .i1{
+    width: 30px;
+    height: 30px;
+    padding: 15px 20px 0px 20px;
+}
+.footer div .i2{
+    width: 25px;
+    height: 25px;
+    padding: 10px 20px 0px 20px;
+
+}
+.footer div .i3{
+    width: 30px;
+    height: 30px;
+    padding: 10px 20px 0px 20px;
+}
+.footer div strong{
+    color: blue;
+    text-decoration: underline;
+}
+.btmfooter{
+    width: 80%;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
